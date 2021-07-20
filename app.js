@@ -16,7 +16,7 @@ $(function () {
       autoplay: 1,
       loop: 1,
       playlist: '5JZ0sLljwMI',
-    },
+      },
     });
   }
 });
