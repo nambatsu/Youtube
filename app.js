@@ -12,6 +12,11 @@ $(function () {
       width: w,
       height: h,
       videoId: '5JZ0sLljwMI',
+      playerVars: {
+      autoplay: 1,
+      loop: 1,
+      playlist: '5JZ0sLljwMI',
+    },
     });
   }
 });
